@@ -33,8 +33,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [FAQ accordion card solution]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [FAQ accordion card solution](https://www.frontendmentor.io/solutions/faqaccordioncard-pucXJuROra)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/FAQ---accordion/)
 
 ## My process
 
